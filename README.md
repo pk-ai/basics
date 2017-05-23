@@ -1,2 +1,3 @@
-# basics
-AI Basics
+# AI Basics
+
+1. [Search](search.md)
